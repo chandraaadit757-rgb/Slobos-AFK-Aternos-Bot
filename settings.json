@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BOTViaanKaserver.aternos.me",
+    "ip": "mora.aternos.host",
     "port": 59921,
     "version": "1.21.11"
     
