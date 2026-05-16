@@ -8,7 +8,7 @@
   "server": {
     "ip": "BOTViaanKaserver.aternos.me",
     "port": 59921,
-    "version": "1.21.11"
+    "version": ""
   },
   "position": {
     "enabled": true,
